@@ -1,4 +1,0 @@
-"img/Layer38.jpg"
-"img/topHeaderBack.png"
-"img/offer1.jpg"
-"img/offer2.jpg"
